@@ -5,8 +5,10 @@ Text Classification using Decision Tree, KNN, SVM, and Naive Bayes.
 Course details: 21CSE377T
 Information Retrieval CLA-2 Task 2
 
-Name: ARUN SIVAPRASATH.A
+-->Name: ARUN SIVAPRASATH.A
 Reg No: RA2411026050216
+-->Name: Sanjith.s
+Reg No: RA2411026050214
 
 
 
