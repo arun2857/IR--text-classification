@@ -14,7 +14,7 @@ Reg No: RA2411026050214
 
 Problem Statement:
 
-Classify newsgroup posts into 5 categories. Evaluate the performance of the 4 classifiers.
+Classify newsgroup posts into 5 categories Evaluate the performance of the 4 classifiers.
 
 
 
