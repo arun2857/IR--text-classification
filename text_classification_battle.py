@@ -7,7 +7,7 @@
 # in order, or run everything with:  python text_classification_battle.py
 # Every number you report must come from YOUR run of this file.
 
-# %% 0. Imports and settings
+
 import os
 import re
 import time
