@@ -7,7 +7,7 @@
 # in order, or run everything with:  python text_classification_battle.py
 # Every number you report must come from YOUR run of this file.
 
-
+print("Starting Text Classification Battle...")
 import os
 import re
 import time
